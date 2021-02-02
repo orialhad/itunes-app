@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="song-div">
+    <div class="name-wrapper">
+        <div class="trackName">
+            ${shotName}${shotName.length < song.trackName.length ? "..." : ""}
+        </div>
+        <div class="trackNameHidden">
+            ${song.trackName}
+        </div>
+    </div>
+    <div class="artistName">
+        ${song.artistName}
+    </div>
+    <div class="albumName">
+        Album: ${song.collectionName}
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="984ce1cf-aee4-476d-b291-5609db2489d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dzeLHP46xg4K6Xorvo1Xz8yqWL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Angular" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Ori\Google Drive\WebDevelopment\itunes-app-new" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="984ce1cf-aee4-476d-b291-5609db2489d0" name="Default Changelist" comment="" />
+      <created>1593432290633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593432290633</updated>
+      <workItem from="1593432291886" duration="14123000" />
+      <workItem from="1593523054162" duration="238000" />
+      <workItem from="1593528146753" duration="9246000" />
+      <workItem from="1593758345169" duration="167000" />
+      <workItem from="1593758547312" duration="686000" />
+      <workItem from="1593759253882" duration="1921000" />
+      <workItem from="1593766771134" duration="594000" />
+      <workItem from="1594132263264" duration="12578000" />
+      <workItem from="1594157847168" duration="33009000" />
+      <workItem from="1594363501620" duration="2602000" />
+      <workItem from="1594657586869" duration="5641000" />
+      <workItem from="1594724855308" duration="3857000" />
+      <workItem from="1594829565358" duration="6748000" />
+      <workItem from="1595183107817" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/main.js.map" />
+        <option value="$PROJECT_DIR$/app/main.js" />
+        <option value="$PROJECT_DIR$/app/controllers/api-controller.js.map" />
+        <option value="$PROJECT_DIR$/app/controllers/api-controller.js" />
+        <option value="$PROJECT_DIR$/app/controllers/dom-controller.js.map" />
+        <option value="$PROJECT_DIR$/app/controllers/dom-controller.js" />
+        <option value="$PROJECT_DIR$/types/interfaces/itunes-api-result.js.map" />
+        <option value="$PROJECT_DIR$/types/interfaces/itunes-api-result.js" />
+        <option value="$PROJECT_DIR$/../Angular/lesson 3/lesson20/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593518427245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1593518427245" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594968267474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594968267474" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1593529370237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593529370237" />
+    <state x="683" y="291" key="refactoring.ChangeSignatureDialog" timestamp="1594159812832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="291" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594159812832" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup" timestamp="1594661373718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594661373718" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594223499393" />
+  </component>
+</project>

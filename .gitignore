@@ -1,0 +1,10 @@
+# Project exclude paths
+/app/controllers/api-controller.js
+/app/controllers/api-controller.js.map
+/app/controllers/dom-controller.js
+/app/controllers/dom-controller.js.map
+/app/main.js
+/app/main.js.map
+/node_modules/
+/types/interfaces/itunes-api-result.js
+/types/interfaces/itunes-api-result.js.map
